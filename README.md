@@ -3,7 +3,7 @@
 ## What is Git Workflow?
 Git Workflow design showcases a bracing model designed around the project. This provides a robust framework for a collaborate team to follow.
 
-![ ]Image/GitFlow.jpg
+![ ](Image/GitFlow.jpg)
 ### Repository: 
 
 tracks all changes made to files in your project, building a history over time.
