@@ -1,9 +1,8 @@
 # GitHub Collaboration : 
 ###### Ebinehita Olumese and Sahar Qiyash
 ## Table Of Content
-### 1.Git Workflow
- 
-## Key Terms:
+### 1.Git Workflow 
+### 2.Key Terms
 
 ### Repository: 
 
