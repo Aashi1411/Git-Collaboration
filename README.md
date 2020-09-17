@@ -8,8 +8,10 @@ Git Workflow design showcases a bracing model designed around the project. This 
 *This image helps visualize gitFlow.* 
 * First, create a branch from master branch where you will perform features or fixes(name them as such)
 * Second, edit all changes you want to make then commit those changes to the master
-* Third, you or your team will see a pull request for project 
+* Third, you or your team member will be able see a pull request for project 
 * Finally, if no errors occur you will be able to merge the features and fixes to the master branch.   
+##Key Terms:
+
 ### Repository: 
 
 tracks all changes made to files in your project, building a history over time.
