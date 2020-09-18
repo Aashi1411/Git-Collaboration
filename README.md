@@ -5,4 +5,4 @@
 1. [Git WorkFlow](GitFlow.md)
 1. [Productivity and Competitiveness](ProCom.md) 
 1. [Key Terms](KeyTerms.md)
-1. [References](References.md)
+1. [ChangeLog](changelog.md)
