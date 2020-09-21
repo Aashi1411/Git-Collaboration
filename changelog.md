@@ -25,12 +25,8 @@
 
 **Added:**
 * Key Terms 
-* ProCom 
-
-**Fixes:**
-
-
+ 
 **Deletes:** 
-
+* ProCom file 
 
 
